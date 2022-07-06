@@ -2,7 +2,7 @@
 Done in Python using PyCharm
 This project uses Generative Pre-trained Transformer 2 [(GPT-2)](https://en.wikipedia.org/wiki/GPT-2) to generate new text after being trained with pre-existing datasets.
 
-Only datasets used and samples for each will be provided here, as models take up too much space.
+Only datasets used will be provided here, as models take up too much space.
 Refer to [here](https://github.com/openai/gpt-2/blob/master/DEVELOPERS.md) in order to install required libraries.
 
 117M parameter model was used, but there are multiple with more available.
